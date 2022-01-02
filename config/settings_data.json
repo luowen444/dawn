@@ -32,6 +32,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "accent-1",
+          "logo": "shopify:\/\/shop_images\/Capture_d_ecran_2022-01-02_a_18.16.44.png",
           "logo_width": 100,
           "logo_position": "middle-left",
           "menu": "main-menu",
